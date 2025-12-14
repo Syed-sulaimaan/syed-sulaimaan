@@ -60,9 +60,9 @@
 
 <br/>
 
-<h3 align="left">🔥 GitHub Streak:</h3>
+<h3 align="left">� GitHub Activity:</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syed-sulaimaan&theme=radical&hide_border=true" alt="syed-sulaimaan" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syed-sulaimaan&theme=tokyo-night&hide_border=true&area=true" alt="syed-sulaimaan's activity graph" />
 </p>
 
 
