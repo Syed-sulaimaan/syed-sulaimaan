@@ -31,9 +31,9 @@
 
 <br/>
 
-<a href="https://github.com/syed-sulaimaan">
+<!-- <a href="https://github.com/syed-sulaimaan">
   <img align="center" alt="syed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=syed-sulaimaan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" height="180px" />
-</a>
+</a> -->
 <a href="https://github.com/syed-sulaimaan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syed-sulaimaan&layout=compact&theme=radical" height="180px" />
 </a>
@@ -60,7 +60,7 @@
 
 <br/>
 
-<h3 align="left">� GitHub Activity:</h3>
+<h3 align="left">GitHub Activity:</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=syed-sulaimaan&theme=tokyo-night&hide_border=true&area=true" alt="syed-sulaimaan's activity graph" />
 </p>
